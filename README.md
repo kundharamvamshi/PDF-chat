@@ -41,7 +41,7 @@ A Retrieval-Augmented Generation (RAG) application that allows users to chat wit
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/kundharamvamshi/gemini-rag-pdf-chat.git
+git clone https://github.com/kundharamvamshi/PDF-chat.git
 cd gemini-rag-pdf-chat
 ```
 
