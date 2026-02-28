@@ -1,6 +1,3 @@
-# PDF-chat-Langchain-RAG-Gemini-
-Chat with your pdf using RAG System and google Gemini 
-
 # 📄 Gemini RAG PDF Chatbot (LangChain + Streamlit + Chroma)
 
 A Retrieval-Augmented Generation (RAG) application that allows users to chat with their PDF documents using **Google Gemini**, **LangChain**, **ChromaDB**, and **Streamlit**.
